@@ -3,7 +3,7 @@
 
 A recreation of Pac-Man built from scratch using Python and Pygame — complete with maze rendering, smooth grid-based movement, and four ghosts (Blinky, Pinky, Inky, Clyde) with distinct chase behaviors.
 
-Concepts I Learned
+# Concepts I Learned
 
 Pygame Basics: Game loop, frame rate, event handling, sprite loading, transformations, and rendering.
 
@@ -16,7 +16,7 @@ Collision Detection: Used pygame.Rect for interactions between Pac-Man, ghosts, 
 Game State Management: Managed score, lives, power-ups, ghost states, win/loss conditions, and game resets.
 
 
-Challenges & Debugging
+# Challenges & Debugging
 Fixed incorrect grid indexing that prevented vertical movement.
 
 Corrected Ghost class indentation causing AttributeError.
