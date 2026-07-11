@@ -23,4 +23,4 @@ Resolved ghost screen wrap-around logic by properly updating positions.
 
 Reference: 
 
-This project follows along with this tutorial: Build Pac-Man in Python with Pygame!!
+This project follows along with this tutorial: Build Pac-Man in Python with Pygame!! https://youtu.be/9H27CimgPsQ?si=qkgO2Dr_Mk1r2L8A
